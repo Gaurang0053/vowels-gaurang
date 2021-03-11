@@ -1,0 +1,6 @@
+
+Enter the String:Mr X is working in Grads IT
+vowels in sentences : vowel repetion
+ {'a': 1, 'e': 0, 'i': 4, 'o': 1, 'u': 0}
+
+Process finished with exit code 0
